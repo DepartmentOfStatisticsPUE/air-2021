@@ -9,3 +9,5 @@ Spis treści:
     + [Wykład 4](notebooks/2_dane_powiaty.ipynb)
 3. Łączenie danych, filtrowanie itp
     + [Wykład 5](notebooks/3_laczenie_danych.ipynb)   
+4. Porządkowalnie liniowe
+    + [Wykład 6 -- metody bezwzorcowe](notebooks/4_porzadkowanie_liniowe_1.ipynb)   
