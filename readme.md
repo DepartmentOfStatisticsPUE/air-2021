@@ -10,6 +10,6 @@ Spis treści:
 3. Łączenie danych, filtrowanie itp
     + [Wykład 5](notebooks/3_laczenie_danych.ipynb)   
 4. Porządkowalnie liniowe
-    + [Wykład 6/7 -- metody bezwzorcowe, wzorcowe, Hellwig](notebooks/4_porzadkowanie_liniowe_1.ipynb)   
-4. Porządkowalnie liniowe
+    + [Wykład 6/7 -- metody bezwzorcowe, wzorcowe, Hellwig](notebooks/4_porzadkowanie_liniowe_1.ipynb)     + [Wykład 8 -- metoda TOPSIS](notebooks/6_topsis.ipynb)
+5. Pętle i przetwarzanie warunkowe
     + [Wykład 7 -- pętle](notebooks/5_petle.ipynb)   
