@@ -14,3 +14,5 @@ Spis treści:
     + [Wykład 8 -- metoda TOPSIS](notebooks/6_topsis.ipynb)
 5. Pętle i przetwarzanie warunkowe
     + [Wykład 7 -- pętle](notebooks/5_petle.ipynb)   
+6. Regresja liniowa 
+    + [Wykład 9 -- wprowadzenie, statsmodels](notebooks/7_regresja_liniowa.ipynb)   
