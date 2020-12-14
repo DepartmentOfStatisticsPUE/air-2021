@@ -15,4 +15,6 @@ Spis treści:
 5. Pętle i przetwarzanie warunkowe
     + [Wykład 7 -- pętle](notebooks/5_petle.ipynb)   
 6. Regresja liniowa 
-    + [Wykład 9 -- wprowadzenie, statsmodels](notebooks/7_regresja_liniowa.ipynb)   
+    + [Wykład 9/10 -- wprowadzenie, statsmodels, zmienne jakościowe](notebooks/7_regresja_liniowa.ipynb)   
+7. Wstęp do analiz przestrzenych
+    + [Wykład 10 -- geopandas](notebooks/8_analizy_przestrzenne.ipynb)   
