@@ -17,6 +17,8 @@ Spis treści:
 6. Regresja liniowa 
     + [Wykład 9/10 -- wprowadzenie, statsmodels, zmienne jakościowe](notebooks/7_regresja_liniowa.ipynb)   
 7. Wstęp do analiz przestrzenych
-    + [Wykład 10, 11 -- geopandas, wagi przestrzenne, Moran's I, miary lokalne I Moran'a, wizualizacje i mapy HH/LL](notebooks/8_analizy_przetrzenne.ipynb)   
+    + [Wykład 10, 11, 12 -- geopandas, wagi przestrzenne, Moran's I, miary lokalne I Moran'a, wizualizacje i mapy HH/LL](notebooks/8_analizy_przetrzenne.ipynb)   
+8. Wizualizacja, tabele:
+    + [Wykład 13](notebooks/9_tabele_wizualizacja.ipynb)
     
     
